@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Text;
 using System.Runtime.InteropServices;
+using System.Threading.Tasks;
 
 namespace ReadCardForNHI
 {
@@ -29,14 +30,14 @@ namespace ReadCardForNHI
           ref SCARD_IO_REQUEST pioSendPci, byte[] pbSendBuffer, int cbSendLength,
           ref SCARD_IO_REQUEST pioRecvPci, ref byte pbRecvBuffer, ref int pcbRecvLength);
 
-        public async Task<object> Invoke()
+        public async Task<object> Invoke(object input)
         {
             return this.getData();
         }
         
         public string getData()
         {
-            string Data = "CC";
+            string Data = "";
             int ContextHandle = 0, CardHandle = 0, ActiveProtocol = 0, ReaderCount = -1;
             string ReaderList = string.Empty; //讀卡機名稱列表
             SCARD_IO_REQUEST SendPci, RecvPci;

@@ -4,3 +4,9 @@ C:\Users\yang900412\Documents\ReadCardForNHI\ReadCardForNHI\obj\Debug\ReadCardFo
 C:\Users\yang900412\Documents\ReadCardForNHI\ReadCardForNHI\obj\Debug\ReadCardForNHI.csproj.CoreCompileInputs.cache
 C:\Users\yang900412\Documents\ReadCardForNHI\ReadCardForNHI\obj\Debug\ReadCardForNHI.dll
 C:\Users\yang900412\Documents\ReadCardForNHI\ReadCardForNHI\obj\Debug\ReadCardForNHI.pdb
+D:\ReadCardForNHI\ReadCardForNHI\obj\Debug\ReadCardForNHI.csproj.AssemblyReference.cache
+D:\ReadCardForNHI\ReadCardForNHI\obj\Debug\ReadCardForNHI.csproj.CoreCompileInputs.cache
+D:\ReadCardForNHI\ReadCardForNHI\obj\Debug\ReadCardForNHI.dll
+D:\ReadCardForNHI\ReadCardForNHI\obj\Debug\ReadCardForNHI.pdb
+D:\ReadCardForNHI\ReadCardForNHI\bin\Debug\ReadCardForNHI.dll
+D:\ReadCardForNHI\ReadCardForNHI\bin\Debug\ReadCardForNHI.pdb
