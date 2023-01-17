@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadCardForNHI", "ReadCardForNHI\ReadCardForNHI.csproj", "{21D78B80-CBE5-4F34-95B4-6E6D7713F4D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{7993E581-9A89-4C5A-943A-33A01B52DBBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21D78B80-CBE5-4F34-95B4-6E6D7713F4D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21D78B80-CBE5-4F34-95B4-6E6D7713F4D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21D78B80-CBE5-4F34-95B4-6E6D7713F4D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21D78B80-CBE5-4F34-95B4-6E6D7713F4D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7993E581-9A89-4C5A-943A-33A01B52DBBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7993E581-9A89-4C5A-943A-33A01B52DBBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7993E581-9A89-4C5A-943A-33A01B52DBBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7993E581-9A89-4C5A-943A-33A01B52DBBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22554021-CD85-4F52-98BC-A7453900B562}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\yang900412\Documents\ReadCardForNHI\ReadCardForNHI\bin\Debug\ReadCardForNHI.dll
+C:\Users\yang900412\Documents\ReadCardForNHI\ReadCardForNHI\bin\Debug\ReadCardForNHI.pdb
+C:\Users\yang900412\Documents\ReadCardForNHI\ReadCardForNHI\obj\Debug\ReadCardForNHI.csproj.AssemblyReference.cache
+C:\Users\yang900412\Documents\ReadCardForNHI\ReadCardForNHI\obj\Debug\ReadCardForNHI.csproj.CoreCompileInputs.cache
+C:\Users\yang900412\Documents\ReadCardForNHI\ReadCardForNHI\obj\Debug\ReadCardForNHI.dll
+C:\Users\yang900412\Documents\ReadCardForNHI\ReadCardForNHI\obj\Debug\ReadCardForNHI.pdb

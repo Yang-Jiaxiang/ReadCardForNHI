@@ -1,0 +1,14 @@
+C:\Users\yang900412\Documents\ReadCardForNHI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\yang900412\Documents\ReadCardForNHI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\yang900412\Documents\ReadCardForNHI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\yang900412\Documents\ReadCardForNHI\WindowsFormsApp1\bin\Debug\ReadCardForNHI.dll
+C:\Users\yang900412\Documents\ReadCardForNHI\WindowsFormsApp1\bin\Debug\ReadCardForNHI.pdb
+C:\Users\yang900412\Documents\ReadCardForNHI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\yang900412\Documents\ReadCardForNHI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\yang900412\Documents\ReadCardForNHI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\yang900412\Documents\ReadCardForNHI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\yang900412\Documents\ReadCardForNHI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\yang900412\Documents\ReadCardForNHI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\yang900412\Documents\ReadCardForNHI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\yang900412\Documents\ReadCardForNHI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\yang900412\Documents\ReadCardForNHI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
