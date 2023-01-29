@@ -20,7 +20,7 @@ namespace WindowsFormsApp1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Class1 x = new Class1();
+            Startup x = new Startup();
             string data = x.getData();
             label1.Text = data;
         }
